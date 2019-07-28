@@ -16,7 +16,7 @@ class App extends React.Component {
         {
           id: Date.now() + 1,
           description: 'Listen some music',
-          completed: true
+          done: true
         },
         {
           id: Date.now() + 2,
