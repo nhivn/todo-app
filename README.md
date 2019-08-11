@@ -2,13 +2,13 @@
 
 Made from scratch to learn React.
 
-## what is used
+### What is used
 
 ✔ React
 
 ✔ Bulma
 
-## What is planned
+### What is planned
 
 ⏳ Date picker actually works so that the due date can be changed
 
