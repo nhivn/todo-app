@@ -61,9 +61,6 @@ class TodoDueDate extends React.Component {
                 onChange={e => {
                   this.props.onChange(e);
                 }}
-                onInput={e => {
-                  this.props.onChange(e);
-                }}
                 value={moment(dueDate).format('YYYY-MM-DD')}
               />
             </div>
